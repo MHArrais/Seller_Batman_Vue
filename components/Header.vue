@@ -17,7 +17,7 @@
               <NuxtLink to="/fotos">Fotos</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/comentarios">Comentário</NuxtLink>
+              <NuxtLink to="/comentario">Comentário</NuxtLink>
             </li>
           </ul>
         </nav>
